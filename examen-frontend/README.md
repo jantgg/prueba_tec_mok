@@ -1,3 +1,3 @@
-# Para probar el proyecto:#
-### `npm install`
-### `npm start`
+# Para probar el proyecto:
+# npm install
+# npm start
